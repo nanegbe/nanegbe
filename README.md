@@ -22,12 +22,13 @@ Currently seeking **data analytics and data engineering job opportunities** wher
 
 
 
-## 📊 Featured Projects
-Here are a few projects that showcase my analytical and engineering skills:
+## 💡 What I Do
 
-- 📈 **[Sales Performance Dashboard](#)** — Built in Power BI to visualize revenue trends, customer segmentation, and KPIs.  
-- ⚙️ **[Data Pipeline with Spark](#)** — Designed an ETL pipeline to clean and process large datasets efficiently.  
-- 💡 **[E-commerce Analytics Project](#)** — Analyzed customer behavior and improved data-driven insights using SQL and Python.
+- 📊 **Data Analytics:** Transform raw data into actionable insights through dashboards, visualizations, and reports.  
+- ⚙️ **Data Engineering:** Build and maintain efficient data pipelines and workflows using modern tools and frameworks.  
+- 💻 **Programming & Development:** Develop data-driven applications and web interfaces using Python, HTML, CSS, JavaScript, and PHP.  
+- ☁️ **Cloud & Big Data:** Leverage tools like AWS and Apache Spark for scalable data processing and cloud-based analytics.  
+- 📈 **Business Intelligence:** Use Power BI and analytical storytelling to support data-informed decision-making.  
 
 
 
